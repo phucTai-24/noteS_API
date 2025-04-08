@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Test Note",
+      "content": "This is a test note",
+      "priority": 2,
+      "createdAt": "2025-04-08T10:00:00.000Z",
+      "modifiedAt": "2025-04-08T10:00:00.000Z",
+      "tags": ["test", "example"],
+      "color": "#FF0000"
+    }
+  ]
+}
