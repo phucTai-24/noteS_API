@@ -1,105 +1,104 @@
-[
-  {
-    "id": 1,
-    "title": "Ghi chú thử nghiệm",
-    "content": "Đây là một ghi chú thử nghiệm",
-    "priority": 2,
-    "createdAt": "2025-04-08T10:00:00.000Z",
-    "modifiedAt": "2025-04-08T10:00:00.000Z",
-    "tags": [
-      "thử nghiệm",
-      "ví dụ"
-    ],
-    "color": "#FF0000"
-  },
-  {
-    "id": 2,
-    "title": "Danh sách mua sắm",
-    "content": "Mua sữa, trứng và bánh mì từ cửa hàng.",
-    "priority": 1,
-    "createdAt": "2025-04-09T08:30:00.000Z",
-    "modifiedAt": "2025-04-09T08:30:00.000Z",
-    "tags": [
-      "mua sắm",
-      "khẩn cấp"
-    ],
-    "color": "#00FF00"
-  },
-  {
-    "id": 3,
-    "title": "Ghi chú cuộc họp",
-    "content": "Thảo luận về tiến độ dự án và phân bổ nguồn lực với nhóm.",
-    "priority": 3,
-    "createdAt": "2025-04-10T14:15:00.000Z",
-    "modifiedAt": "2025-04-10T14:15:00.000Z",
-    "tags": [
-      "công việc",
-      "cuộc họp"
-    ],
-    "color": "#0000FF"
-  },
-  {
-    "id": 4,
-    "title": "Nhắc nhở cá nhân",
-    "content": "Gọi cho mẹ lúc 6 giờ tối nay.",
-    "priority": 2,
-    "createdAt": "2025-04-11T09:00:00.000Z",
-    "modifiedAt": "2025-04-11T09:00:00.000Z",
-    "tags": [
-      "cá nhân"
-    ],
-    "color": "#FFFF00"
-  },
-  {
-    "id": 5,
-    "title": "Kế hoạch học tập",
-    "content": "Ôn tập các chương toán cho kỳ thi tuần tới.",
-    "priority": 3,
-    "createdAt": "2025-04-12T15:00:00.000Z",
-    "modifiedAt": "2025-04-12T15:00:00.000Z",
-    "tags": [
-      "học tập",
-      "quan trọng"
-    ],
-    "color": "#FFA500"
-  },
-  {
-    "id": 6,
-    "title": "Lịch trình du lịch",
-    "content": "Lên kế hoạch đi Đà Lạt vào cuối tháng.",
-    "priority": 1,
-    "createdAt": "2025-04-13T11:30:00.000Z",
-    "modifiedAt": "2025-04-13T11:30:00.000Z",
-    "tags": [
-      "du lịch",
-      "kế hoạch"
-    ],
-    "color": "#800080"
-  },
-  {
-    "id": 7,
-    "title": "Mục tiêu thể dục",
-    "content": "Đi tập gym 3 lần trong tuần này.",
-    "priority": 2,
-    "createdAt": "2025-04-14T08:00:00.000Z",
-    "modifiedAt": "2025-04-14T08:00:00.000Z",
-    "tags": [
-      "thể dục",
-      "sức khỏe"
-    ],
-    "color": "#00FFFF"
-  },
-  {
-    "id": 8,
-    "title": "Đọc sách",
-    "content": "Hoàn thành việc đọc 'Nhà giả kim' của Paulo Coelho.",
-    "priority": 1,
-    "createdAt": "2025-04-15T09:45:00.000Z",
-    "modifiedAt": "2025-04-15T09:45:00.000Z",
-    "tags": [
-      "đọc sách",
-      "giải trí"
-    ],
-    "color": "#FFC0CB"
-  }
-]
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Ghi chú thử nghiệm",
+      "content": "Đây là một ghi chú thử nghiệm đã được cập nhật với nhiều chi tiết hơn.",
+      "priority": 1,
+      "createdAt": "2025-04-08T10:00:00.000Z",
+      "modifiedAt": "2025-04-24T10:00:00.000Z",
+      "tags": ["đã cập nhật", "ví dụ"],
+      "color": "#FF8800"
+    },
+    {
+      "id": 2,
+      "title": "Danh sách mua sắm",
+      "content": "Mua sữa, trứng, bánh mì và một ít trái cây.",
+      "priority": 1,
+      "createdAt": "2025-04-09T08:30:00.000Z",
+      "modifiedAt": "2025-04-24T10:10:00.000Z",
+      "tags": ["mua sắm", "khẩn cấp"],
+      "color": "#00FF99"
+    },
+    {
+      "id": 3,
+      "title": "Ghi chú cuộc họp",
+      "content": "Thảo luận về tiến độ dự án và phân bổ nguồn lực với nhóm. Xác nhận các hạng mục cần bàn giao.",
+      "priority": 3,
+      "createdAt": "2025-04-10T14:15:00.000Z",
+      "modifiedAt": "2025-04-24T10:20:00.000Z",
+      "tags": ["công việc", "cuộc họp", "dự án"],
+      "color": "#3366FF"
+    },
+    {
+      "id": 4,
+      "title": "Nhắc nhở cá nhân",
+      "content": "Gọi cho mẹ lúc 6 giờ tối nay. Hỏi thăm sức khỏe của mẹ.",
+      "priority": 2,
+      "createdAt": "2025-04-11T09:00:00.000Z",
+      "modifiedAt": "2025-04-24T10:30:00.000Z",
+      "tags": ["cá nhân", "gia đình"],
+      "color": "#FFFFAA"
+    },
+    {
+      "id": 5,
+      "title": "Kế hoạch tập luyện",
+      "content": "Hoàn thành 30 phút tập cardio và 15 phút tập sức mạnh.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:00:00.000Z",
+      "modifiedAt": "2025-04-24T10:00:00.000Z",
+      "tags": ["sức khỏe", "thể dục"],
+      "color": "#FF33CC"
+    },
+    {
+      "id": 6,
+      "title": "Danh sách chuẩn bị du lịch",
+      "content": "Chuẩn bị quần áo, đồ dùng cá nhân và thiết bị điện tử cho chuyến đi.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:05:00.000Z",
+      "modifiedAt": "2025-04-24T10:05:00.000Z",
+      "tags": ["du lịch", "danh sách chuẩn bị"],
+      "color": "#00AAFF"
+    },
+    {
+      "id": 7,
+      "title": "Ý tưởng quà sinh nhật",
+      "content": "Tìm hiểu các lựa chọn quà tặng cho sinh nhật của Alex.",
+      "priority": 3,
+      "createdAt": "2025-04-24T10:10:00.000Z",
+      "modifiedAt": "2025-04-24T10:10:00.000Z",
+      "tags": ["cá nhân", "sinh nhật"],
+      "color": "#FFDD99"
+    },
+    {
+      "id": 8,
+      "title": "Lịch học",
+      "content": "Ôn lại chương 3 và 4 của sách giáo khoa.",
+      "priority": 1,
+      "createdAt": "2025-04-24T10:15:00.000Z",
+      "modifiedAt": "2025-04-24T10:15:00.000Z",
+      "tags": ["học tập", "giáo dục"],
+      "color": "#CCFF33"
+    },
+    {
+      "id": 9,
+      "title": "Lên kế hoạch sự kiện",
+      "content": "Hoàn tất địa điểm và thư mời cho sự kiện công ty.",
+      "priority": 3,
+      "createdAt": "2025-04-24T10:20:00.000Z",
+      "modifiedAt": "2025-04-24T10:20:00.000Z",
+      "tags": ["công việc", "sự kiện"],
+      "color": "#FF8822"
+    },
+    {
+      "id": 10,
+      "title": "Mục tiêu hàng tuần",
+      "content": "Đặt mục tiêu cho tuần: tập thể dục, hoàn thành báo cáo và dành thời gian cho gia đình.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:25:00.000Z",
+      "modifiedAt": "2025-04-24T10:25:00.000Z",
+      "tags": ["cá nhân", "mục tiêu"],
+      "color": "#6699FF"
+    }
+  ]
+}
