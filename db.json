@@ -1,33 +1,33 @@
 {
   "notes": [
     {
-      "id": 1,
-      "title": "Test Note",
-      "content": "This is an updated test note with more details.",
+     "id": 1,
+      "title": "Ghi chú thử nghiệm",
+      "content": "Đây là một ghi chú thử nghiệm đã được cập nhật với nhiều chi tiết hơn.",
       "priority": 1,
       "createdAt": "2025-04-08T10:00:00.000Z",
       "modifiedAt": "2025-04-24T10:00:00.000Z",
-      "tags": ["updated", "example"],
+      "tags": ["đã cập nhật", "ví dụ"],
       "color": "#FF8800"
     },
     {
       "id": 2,
-      "title": "Grocery List",
-      "content": "Buy milk, eggs, bread, and some fruits.",
+      "title": "Danh sách mua sắm",
+      "content": "Mua sữa, trứng, bánh mì và một ít trái cây.",
       "priority": 1,
       "createdAt": "2025-04-09T08:30:00.000Z",
       "modifiedAt": "2025-04-24T10:10:00.000Z",
-      "tags": ["shopping", "urgent"],
+      "tags": ["mua sắm", "khẩn cấp"],
       "color": "#00FF99"
     },
     {
       "id": 3,
-      "title": "Meeting Notes",
-      "content": "Discuss project timeline and resource allocation with the team. Confirm deliverables.",
+      "title": "Ghi chú cuộc họp",
+      "content": "Thảo luận về tiến độ dự án và phân bổ nguồn lực với nhóm. Xác nhận các hạng mục cần bàn giao.",
       "priority": 3,
       "createdAt": "2025-04-10T14:15:00.000Z",
       "modifiedAt": "2025-04-24T10:20:00.000Z",
-      "tags": ["work", "meeting", "project"],
+      "tags": ["công việc", "cuộc họp", "dự án"],
       "color": "#3366FF"
     },
     {
