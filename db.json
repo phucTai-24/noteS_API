@@ -94,3 +94,11 @@
       "id": 10,
       "title": "Weekly Goals",
       "content": "Set objectives for the week: exercise, finish reports, and spend time with family.",
+      "priority": 2,
+      "createdAt": "2025-04-24T10:25:00.000Z",
+      "modifiedAt": "2025-04-24T10:25:00.000Z",
+      "tags": ["personal", "goals"],
+      "color": "#6699FF"
+    }
+  ]
+}
